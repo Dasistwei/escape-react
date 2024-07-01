@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/escape-react/static/css/main.50460633.css",
+    "main.css": "/escape-react/static/css/main.a2d344ad.css",
     "main.js": "/escape-react/static/js/main.1a080bf7.js",
     "index.html": "/escape-react/index.html",
-    "main.50460633.css.map": "/escape-react/static/css/main.50460633.css.map",
+    "main.a2d344ad.css.map": "/escape-react/static/css/main.a2d344ad.css.map",
     "main.1a080bf7.js.map": "/escape-react/static/js/main.1a080bf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.50460633.css",
+    "static/css/main.a2d344ad.css",
     "static/js/main.1a080bf7.js"
   ]
 }
